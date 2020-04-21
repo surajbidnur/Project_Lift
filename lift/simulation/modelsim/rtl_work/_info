@@ -1,0 +1,265 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\admin\Documents\Verilog_Proj\Project_Lift\lift\simulation\modelsim
+vclkref
+Ic<J6kbW:51jTjcXXb3O@K2
+Vb5g66bz_gf`W8_>c[6A=c0
+Z1 dC:\Users\admin\Documents\Verilog_Proj\Project_Lift\lift\simulation\modelsim
+w1534489047
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/clkref.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/clkref.v
+L0 10
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl -O0
+!i10b 1
+!s100 7DRFm>iWOD1gWHQdBS0=@0
+!s85 0
+!s108 1534489227.881000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/clkref.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/clkref.v|
+!s101 -O0
+vdebounce
+I=GH]ZGXGMDK5jGi9]6AzQ1
+VEOiP=JWko^CUUJa]m1A8c2
+R1
+w1534489028
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce.v
+L0 6
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3zTD9a[Q0MOo:Og[Z2fI52
+!s85 0
+!s108 1534489227.366000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce.v|
+!s101 -O0
+vdebounce_sw
+Id>58[=oj@NbHS8f7eCUZA0
+V0G@j3zEJ:had]M[ol^ZUn3
+R1
+w1534488947
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce_sw.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce_sw.v
+L0 6
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 bL8QXcIKbO2JT:LeOO9BX0
+!s85 0
+!s108 1534489229.600000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce_sw.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce_sw.v|
+!s101 -O0
+vflreq
+INF1LNKcg`JP;P[Wz`^9PI0
+VB9>FbjnjXflh?D8X_?[K_1
+R1
+w1533197894
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/flreq.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/flreq.v
+L0 8
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 `G5BJjIKgC>I8c?dRLM<H1
+!s85 0
+!s108 1534489231.709000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/flreq.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/flreq.v|
+!s101 -O0
+vlevel2_led
+IG][7z5CX4c1gXl_JMY7Ii0
+VTBbjf539bgYOZMP6]Ufg^2
+R1
+w1534488927
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/level2_led.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/level2_led.v
+L0 10
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 0c_VRRGTDL1M]@oWJ@d9G2
+!s85 0
+!s108 1534489230.100000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/level2_led.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/level2_led.v|
+!s101 -O0
+vleveltg_led
+Io^A;B?>PGacg=Q84?a=KN2
+V>AWHdM93[G;Y>I[Yeb6XT0
+R1
+w1534488851
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/leveltg_led.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/leveltg_led.v
+L0 8
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 hWK:`bm1>D>Z4Sgh6ReU12
+!s85 0
+!s108 1534489230.771000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/leveltg_led.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/leveltg_led.v|
+!s101 -O0
+vlift
+Ibb4_TZ;Jg:S92H79nFBU41
+V?M<JRi8mcJ1E]BKj=ZXKU2
+R1
+w1533212800
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 4M98I>neP>V;LHb64AK?M3
+!s85 0
+!s108 1534489228.194000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v|
+!s101 -O0
+vlift_sm
+Ila8UH=ZC?UHm_DDU[cZY13
+VViG:4W@Q=HOgEDokG50c@2
+R1
+w1534167544
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift_sm.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift_sm.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 zV@f6T5;L<E^VU1;ZCUMC0
+!s85 0
+!s108 1534489232.162000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift_sm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift_sm.v|
+!s101 -O0
+vliftsm_tb
+!i10b 1
+!s100 LkJkFM9LNH`i;i9C6i=Sg1
+IJe:h1KHj>F?B_Y^S5T5dG3
+VlCdAN>??PRX>PPMQXSY5C1
+R1
+w1533448974
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1534489232.537000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v|
+!s101 -O0
+R3
+R4
+vnumber_disp
+IloL_fMcOD52lGCDJ^<eaj0
+V5ThDhA]^DQh5jQ8d[R]Q32
+R1
+w1534488836
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/number_disp.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/number_disp.v
+L0 7
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 2ViheRYkU66e>HLlDZokQ1
+!s85 0
+!s108 1534489231.240000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/number_disp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/number_disp.v|
+!s101 -O0
+vpb_pulse
+ICd;idn0SmRo^c;J=InbDz0
+VD:Ikj1DVlP?U?M<?g79l91
+R1
+w1534489074
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/pb_pulse.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/pb_pulse.v
+L0 6
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ]TNe<iX>>a][RKT`?O3`22
+!s85 0
+!s108 1534489228.428000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/pb_pulse.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/pb_pulse.v|
+!s101 -O0
+vswitch_pulse
+IMHEE[HIg`[k?MW<hN2>]X3
+VZjGl0KP36XWi?PA<WEhe21
+R1
+w1534489141
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/switch_pulse.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/switch_pulse.v
+L0 6
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 GEFO=^1``9m8^:377VEgL0
+!s85 0
+!s108 1534489229.194000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/switch_pulse.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/switch_pulse.v|
+!s101 -O0
+vud_disp
+IaI4fgeoBS;khi[gBEI^7X1
+VV3AOXgfj1:]?nGa5T=3D63
+R1
+w1533197514
+8C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/ud_disp.v
+FC:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/ud_disp.v
+L0 7
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 @o;nzFVO[X?iHm@fXOOBA0
+!s85 0
+!s108 1534489228.725000
+!s107 C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/ud_disp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl|C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/ud_disp.v|
+!s101 -O0

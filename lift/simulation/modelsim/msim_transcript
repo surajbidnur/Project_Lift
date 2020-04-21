@@ -1,0 +1,126 @@
+# Reading C:/Altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do lift_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\Altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\Altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module debounce
+# 
+# Top level modules:
+# 	debounce
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/clkref.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module clkref
+# 
+# Top level modules:
+# 	clkref
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module lift
+# 
+# Top level modules:
+# 	lift
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/pb_pulse.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pb_pulse
+# 
+# Top level modules:
+# 	pb_pulse
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/ud_disp.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ud_disp
+# 
+# Top level modules:
+# 	ud_disp
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/switch_pulse.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module switch_pulse
+# 
+# Top level modules:
+# 	switch_pulse
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/debounce_sw.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module debounce_sw
+# 
+# Top level modules:
+# 	debounce_sw
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/level2_led.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module level2_led
+# 
+# Top level modules:
+# 	level2_led
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/leveltg_led.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module leveltg_led
+# 
+# Top level modules:
+# 	leveltg_led
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/number_disp.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module number_disp
+# 
+# Top level modules:
+# 	number_disp
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/flreq.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module flreq
+# 
+# Top level modules:
+# 	flreq
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift_sm.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module lift_sm
+# 
+# Top level modules:
+# 	lift_sm
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl {C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module liftsm_tb
+# 
+# Top level modules:
+# 	liftsm_tb
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs="+acc"  liftsm_tb
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps liftsm_tb 
+# Loading work.liftsm_tb
+# Loading work.lift
+# Loading work.clkref
+# Loading work.debounce
+# Loading work.pb_pulse
+# Loading work.debounce_sw
+# Loading work.switch_pulse
+# Loading work.leveltg_led
+# Loading work.level2_led
+# Loading work.flreq
+# Loading work.ud_disp
+# Loading work.number_disp
+# Loading work.lift_sm
+# ** Warning: (vsim-3015) C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v(30): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'd1'. The port definition is at: C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v(7).
+# 
+#         Region: /liftsm_tb/lift0
+# ** Warning: (vsim-3015) C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v(30): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'd2'. The port definition is at: C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v(7).
+# 
+#         Region: /liftsm_tb/lift0
+# ** Warning: (vsim-3015) C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v(30): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'numdisp'. The port definition is at: C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/lift.v(9).
+# 
+#         Region: /liftsm_tb/lift0
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break in Module liftsm_tb at C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v line 191
+# Simulation Breakpoint: Break in Module liftsm_tb at C:/Users/admin/Documents/Verilog_Proj/Project_Lift/lift/hdl/liftsm_tb.v line 191
+# MACRO ./lift_run_msim_rtl_verilog.do PAUSED at line 28

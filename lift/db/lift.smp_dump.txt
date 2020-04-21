@@ -1,0 +1,7 @@
+
+State Machine - |lift|lift_sm:sm0|sm
+Name sm.LVL2 sm.LVL1D sm.LVL1U sm.LVL0 
+sm.LVL0 0 0 0 0 
+sm.LVL1U 0 0 1 1 
+sm.LVL1D 0 1 0 1 
+sm.LVL2 1 0 0 1 

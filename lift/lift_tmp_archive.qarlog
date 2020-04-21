@@ -1,0 +1,37 @@
+Quartus II Archive log --	E:/lift/lift_tmp_archive.qarlog
+
+Archive:	E:/lift/lift_tmp_archive.qar
+Date:		Sun Aug 05 11:48:59 2018
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+E:/lift/hdl/clkref.v
+E:/lift/hdl/debounce.v
+E:/lift/hdl/debounce_sw.v
+E:/lift/hdl/debounce_tb.v
+E:/lift/hdl/floor_led_tb.v
+E:/lift/hdl/flreq.v
+E:/lift/hdl/level2_led.v
+E:/lift/hdl/leveltg_led.v
+E:/lift/hdl/lift.v
+E:/lift/hdl/lift_sm.v
+E:/lift/hdl/liftsm_tb.v
+E:/lift/hdl/number_disp.v
+E:/lift/hdl/pb_pulse.v
+E:/lift/hdl/switch_pulse.v
+E:/lift/hdl/ud_disp.v
+E:/lift/hdl/ud_disp_tb.v
+E:/lift/incremental_db/compiled_partitions/lift.db_info
+E:/lift/lift.qpf
+E:/lift/lift.qsf
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 20 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Aug 05 11:49:01 2018
+Source archive file:	E:/lift/lift_tmp_archive.qar
+Archive was extracted into	C:/Users/Anuj/Projects/Altera/
+		 - successfully.
