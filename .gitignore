@@ -4,3 +4,5 @@
 /lift/simulation
 /lift/*.rpt
 /lift/*.qarlog
+/lift/*.qsf
+/lift/*.qws
