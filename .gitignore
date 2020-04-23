@@ -2,5 +2,5 @@
 /lift/incremental_db
 /lift/output_files
 /lift/simulation
-*.rpt
-*.qarlog
+/lift/*.rpt
+/lift/*.qarlog
